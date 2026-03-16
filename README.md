@@ -81,7 +81,7 @@ Custom levels can also be created by choosing **level 0**.
 
 ```bash
 python solver.py
-
+```
 Example output:
 Goal reached!
 
